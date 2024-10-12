@@ -58,6 +58,16 @@ tr:nth-of-type(odd) {
 .text {
     text-align: left;
 }
+
+label {
+    display:block;
+}
+
+input, textarea {
+    display:block;
+    margin-bottom: 20px;
+}
+
 footer {
     font-size: 75%;
 }
@@ -70,3 +80,5 @@ footer {
 #contact {
     font-size:90%;
 }
+
+
